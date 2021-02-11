@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-basic implementations of reinforcement learning algorithms
+Basic implementations of reinforcement learning algorithms
